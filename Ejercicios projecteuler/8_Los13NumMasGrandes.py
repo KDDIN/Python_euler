@@ -28,8 +28,6 @@ while largo != 988: #esta condicion sirve para que no se sobrepase al array y de
 
 print("el numero max es: ",max(arreglofinal))
 
-if True:
-    print ("hola")
     
     
     
